@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="header" width="100%" />
+  <img src="https://github.com/marianamourapy/marianamourapy/blob/main/WELCOME.gif" alt="header" width="100%" />
 </p>
 
 <h1> <img src="https://slackmojis.com/emojis/127370-party-fasta/download" width="30"/> hi, welcome to my tech world! </h3>
