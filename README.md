@@ -5,7 +5,7 @@
 <h1> <img src="https://slackmojis.com/emojis/127370-party-fasta/download" width="30"/> hi, welcome to my tech world! </h1>
 
 <div>
-  <img align="right" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.1.gif" alt="fun gif" width="280"/> 
+  <img align="right" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.1%20(1).gif" alt="fun gif" width="280"/> 
 </div>
 
 <p align="left"> <i>i am a brazilian developer and ML enthusiast with a huge love for python & data.</i> </p>
@@ -22,7 +22,7 @@
 <h1 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1660415342/60604/brain.gif?1660415342" width="30"> tech stack</h1> 
 
 <div>
-      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2.gif" alt="fun gif" width="280"/> 
+      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2.gif" alt="fun gif" width="350"/> 
 </div>
 
 
