@@ -49,21 +49,16 @@
 
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="30"/> my socials </h1>
 
+<div>
 <a href="mailto:marianamourapy@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="marianamourapy@gmail.com"/>
-</a>
-
-<a href="https://www.instagram.com/mouraxmari" target="_blank">
+</a>&nbsp;<a href="https://www.instagram.com/mouraxmari" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="mouraxmari"/>
-</a>
-
-<a href="https://www.githubcom/marianamourapy" target="_blank">
+</a>&nbsp;<a href="https://www.githubcom/marianamourapy" target="_blank">
 <img src="./github.png" width=50 height=50 alt="marianamourapy"/>
-</a>
-
-<a href="https://www.linkedin.com/in/marianamourapy/" target="_blank">
+</a>&nbsp;<a href="https://www.linkedin.com/in/marianamourapy/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin"/>
 </a>
 </div>
 
-<img src="https://github.com/marianamourapy/marianamourapy/blob/main/footer.gif" alt="hire_me"/>
+<img src="https://github.com/marianamourapy/marianamourapy/blob/main/footer%20(1).gif" alt="hire_me"/>
