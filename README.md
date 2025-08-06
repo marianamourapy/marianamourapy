@@ -4,6 +4,7 @@
 
 <h1> <img src="https://slackmojis.com/emojis/127370-party-fasta/download" width="30"/> hi, welcome to my tech world! </h1>
 
+
 <div>
   <img align="right" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.1%20(1).gif" alt="fun gif" width="280"/> 
 </div>
@@ -18,6 +19,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marianamourapy&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="marianamourapy"/></p>
+
+<br>
 
 <h1 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1660415342/60604/brain.gif?1660415342" width="30"> tech stack</h1> 
 
