@@ -36,22 +36,30 @@
 
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="30"/> my socials </h1>
 
-
 <a href="mailto:marianamourapy@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="marianamourapy@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="marianamourapy@gmail.com"/>
 </a>
 
 <a href="https://www.instagram.com/mouraxmari" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="mouraxmari" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="mouraxmari"/>
 </a>
 
 <a href="https://www.githubcom/marianamourapy" target="_blank">
-<img src="./github.png" width=50 height=50 alt="marianamourapy" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="marianamourapy"/>
 </a>
 
 <a href="https://www.linkedin.com/in/marianamourapy/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=50 height=50 alt="linkedin"/>
 </a>
 
 </div>
 <br/>
+
+yaml
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
