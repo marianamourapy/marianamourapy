@@ -22,7 +22,7 @@
 <h1 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1660415342/60604/brain.gif?1660415342" width="30"> tech stack</h1> 
 
 <div>
-      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2.gif" alt="fun gif" width="350"/> 
+      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2%20(1).gif" alt="fun gif" width="270"/> 
 </div>
 
 
