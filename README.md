@@ -19,12 +19,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marianamourapy&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="marianamourapy"/></p>
 
-<br>
-
 <h1 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1660415342/60604/brain.gif?1660415342" width="30"> tech stack</h1> 
 
 <div>
-      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2%20(1).gif" alt="fun gif" width="270"/> 
+      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2%20(2).gif" alt="fun gif" width="320"/> 
 </div>
 
 <br><br>
@@ -33,7 +31,24 @@
 
 <br><br>
 
-<h1> <img src="https://slackmojis.com/emojis/127370-party-fasta/download" width="30"/> my socials </h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="30"/> my socials </h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouraxmari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marianamourapy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marianamoura.py@gmail.com) 
 
+<a href="mailto:marianamourapy@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="marianamourapy@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/mouraxmari" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="mouraxmari" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/marianamourapy" target="_blank">
+<img src="./github.png" width=50 height=50 alt="marianamourapy" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/marianamourapy/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
