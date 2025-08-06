@@ -62,6 +62,6 @@
 <a href="https://www.linkedin.com/in/marianamourapy/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin"/>
 </a>
-
 </div>
-<br/>
+
+<img src="https://github.com/marianamourapy/marianamourapy/blob/main/footer.gif" alt="hire_me"/>
