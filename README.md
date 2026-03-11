@@ -9,28 +9,26 @@
   <img align="right" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.1%20(1).gif" alt="fun gif" width="280"/> 
 </div>
 
-<p align="left"> <i>i am a brazilian developer and ML enthusiast with a huge love for python & data.</i> </p>
+<p align="left"> <i>I am a brazilian developer and ML enthusiast with a huge love for Python & Data.</i> </p>
 
-- 🎓 information systems student & future engineer in the making  <br>
-- 🧠 fascinated by AI, data, and turning ideas into real-world solutions  <br>
-- 👩‍🚀 currently building cool stuff at the NASA hackathon  <br>
-- 🌍 languages: portuguese, english, japanese (basic), chinese (basic)  <br>
-- ⏳ on a secret mission to invent a time machine
+- 🎓 Information Systems student & future engineer in the making <br>
+- 🧠 Fascinated by AI, data, and building new things <br>
+- 🌍 Languages: Portuguese, English, Japanese (basic), Chinese (basic) <br>
+- ⏳ On a secret mission to build a time machine
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marianamourapy&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="marianamourapy"/></p>
 
 <br>
 
-<h1 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"> tech stack</h1> 
+<h1 align="left">TECH STACK</h1>
+<br>
 
-<div>
-      <img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2%20(2).gif" alt="fun gif" width="320"/> 
-</div>
+<img align="left" src="https://github.com/marianamourapy/marianamourapy/blob/main/el.2%20(2).gif" width="320"/>
 
 <br>
 
-<strong>AI & Data stack:</strong>
+<strong>Things I mainly work with:</strong>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -60,18 +58,18 @@
   </tr>
 </table>
 
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="30"/> my socials </h1>
-
 <div>
-<a href="mailto:marianamourapy@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="marianamourapy@gmail.com"/>
-</a>&nbsp;<a href="https://www.instagram.com/mouraxmari" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="mouraxmari"/>
-</a>&nbsp;<a href="https://www.githubcom/marianamourapy" target="_blank">
-<img src="./github.png" width=50 height=50 alt="marianamourapy"/>
-</a>&nbsp;<a href="https://www.linkedin.com/in/marianamourapy/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin"/>
-</a>
-</div>
+<h2>contact</h2>
 
-<img src="https://github.com/marianamourapy/marianamourapy/blob/main/footer%20(1).gif" alt="hire_me"/>
+<p>
+<a href="mailto:marianamourapy@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/> email
+</a>
+&nbsp;•&nbsp;
+
+<a href="https://www.linkedin.com/in/marianamourapy/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="30"/> linkedin
+</a>
+</p>
+
+</div>
